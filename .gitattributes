@@ -1,0 +1,7 @@
+* text=auto
+*.sh text eol=lf
+*.jsonl text eol=lf
+*.json text eol=lf
+# Keep the byte-exact, machine-generated figures used by the evidence manifest.
+*.svg text eol=lf -whitespace
+*.gz binary

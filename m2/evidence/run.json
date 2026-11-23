@@ -1,0 +1,46 @@
+{
+  "build": {
+    "backend_revision": "7d9b931df9bb7c689f067a7fed23e7f5253951f6",
+    "probe_sha256": "d082549738bfd3282f5ce66e06b48a24ce7e06e9710fcacf7e65edf9c5043bb6"
+  },
+  "environment": {
+    "hardware": "NVIDIA H20",
+    "driver": "535.161.08",
+    "cuda": "12.6.85",
+    "batch_slots": 4
+  },
+  "model": {
+    "revision": "7af7f5e17b57395455bd8a37d8cfefa98824ca6e",
+    "format": "IQ4_NL",
+    "sha256": "e9f70a167e54794bebce2d456b2118730b74fa7c35e23cb1abd4378f66b17bb2"
+  },
+  "dataset_revision": "210d026faf9955653af8916fad021475a3f00453",
+  "case_manifest_sha256": "5849521534cfe6030775fb06a85472c0331b3c61b38e3417629a88e3496df9ac",
+  "per_depth": {
+    "1": {
+      "effective_layers": 24,
+      "gpu_offloaded_including_output": 25,
+      "output_rows_including_canaries": 1092,
+      "raw_trace_sha256": "aa9d6df08fc40b22d057b01f8cc8b34b298a9cb39c9bc83c648a7627b946ec3f"
+    },
+    "2": {
+      "effective_layers": 36,
+      "gpu_offloaded_including_output": 37,
+      "output_rows_including_canaries": 1092,
+      "raw_trace_sha256": "69f6a9a5b56d2249747856f4c5d32ce2fb19cca3ee7b4e665a988b2f29c06830"
+    },
+    "3": {
+      "effective_layers": 48,
+      "gpu_offloaded_including_output": 49,
+      "output_rows_including_canaries": 1092,
+      "raw_trace_sha256": "555863ceed5a8f6a5cde31b268c799eb3ca3bcca93d01dbbd9dfbd8b1173535f"
+    }
+  },
+  "public_sha256": {
+    "paired.jsonl.gz": "e87ba804acbb6dfc5410ba0c5c30e14d4a66292c35cde18fb575b868c1e1512d",
+    "metrics.json": "c244a34422b92078994130b875a804467a5826abe857952f2f8625214603cf59",
+    "heads.json": "90402380e06d26bfee60bffa45104d810531ad0174fbfe7f3a13553b9643f291",
+    "decisions.json": "bd5dcbdd26b1cc402cc58cf4554933e26ba8474478ef5aa3d2dc4547c77a5420",
+    "accuracy-cost.svg": "1be4e30e255600b7ce365bd0e4a71e607109addf97bf205dd207abca847ef0d3"
+  }
+}

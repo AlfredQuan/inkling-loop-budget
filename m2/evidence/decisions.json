@@ -1,0 +1,4994 @@
+[
+  {
+    "id": "5870aec7c17d64bd97d2",
+    "arc_id": "MSA_2012_5_2",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ffff416fb5ac2c65717e",
+    "arc_id": "MDSA_2009_4_34",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c77edf2f5728d151feff",
+    "arc_id": "Mercury_402364",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "51ef8afafc618b67af19",
+    "arc_id": "Mercury_7191433",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "59e81a50d26f401a92d8",
+    "arc_id": "NCEOGA_2013_8_7",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ff3c35078011b325e30d",
+    "arc_id": "Mercury_7271513",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0f87f5cc2be0347a8bdc",
+    "arc_id": "Mercury_7024798",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "acca331aa37991760b66",
+    "arc_id": "NCEOGA_2013_8_15",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "aa0235fa09e80397edae",
+    "arc_id": "Mercury_401763",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "8ae81b1b71b1efb70baa",
+    "arc_id": "TIMSS_2003_8_pg85",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "daee5976e6bdda024e1f",
+    "arc_id": "Mercury_188528",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2ad6d16486a0a4ac28b5",
+    "arc_id": "Mercury_SC_401162",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a300b177d7477cc08c3d",
+    "arc_id": "Mercury_7030555",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "44b61cb45fb32ba5f7a1",
+    "arc_id": "MDSA_2007_5_16",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "a2bd15378b39437cbaad",
+    "arc_id": "Mercury_7206553",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1de58bd23ba35f632ca5",
+    "arc_id": "Mercury_SC_407572",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d3a2357dc5ff6a52a952",
+    "arc_id": "Mercury_SC_414001",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "897784748737738742c7",
+    "arc_id": "Mercury_192220",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1639f93b2b97239e888c",
+    "arc_id": "Mercury_SC_406710",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "e433267d0d02a69edb85",
+    "arc_id": "AKDE&ED_2008_8_47",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "73ffd18d644c50498f01",
+    "arc_id": "MSA_2013_5_11",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0272b22e1e6bd2c12a54",
+    "arc_id": "NCEOGA_2013_5_9",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "8aebf285a9b1eef77fee",
+    "arc_id": "Mercury_416380",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "7359fe61af3be0e4b1b0",
+    "arc_id": "Mercury_SC_410630",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "423b8633edcb6d68cc88",
+    "arc_id": "MCAS_1999_8_1",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cbeb7d8223c92020ec5f",
+    "arc_id": "Mercury_400699",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "30856cb034f33ad9ae07",
+    "arc_id": "Mercury_SC_415719",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "39d5bf943de440c076bf",
+    "arc_id": "LEAP_2000_8_4",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9d1d4c1eca2bfa50e2d4",
+    "arc_id": "Mercury_SC_401766",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "494b416f719f832224f1",
+    "arc_id": "Mercury_400500",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "05a3e4c70833e7919017",
+    "arc_id": "MEA_2010_8_18",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "2bfa2e068d71e4b59648",
+    "arc_id": "Mercury_SC_401661",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ebd7954f47bd53539bfa",
+    "arc_id": "NYSEDREGENTS_2012_4_29",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "287385c0e4b289da4601",
+    "arc_id": "Mercury_405950",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c94cc48695a7491d3f38",
+    "arc_id": "Mercury_7033845",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "30fcd19a4a77b5d0a30a",
+    "arc_id": "Mercury_7082023",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "fc259affac8f82b2b077",
+    "arc_id": "Mercury_SC_400059",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "3f1f13c93e969e268e3d",
+    "arc_id": "Mercury_417118",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "d16c18aefba7f809f229",
+    "arc_id": "Mercury_7234378",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "b5d35d693212a9b286e4",
+    "arc_id": "MCAS_2006_9_1",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cc1b30e03dc5402c5504",
+    "arc_id": "Mercury_401241",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cd62798b7db21752c821",
+    "arc_id": "Mercury_7185343",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0126aa75f8db4921a2b9",
+    "arc_id": "Mercury_177870",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "041ea1cdb62d8591a637",
+    "arc_id": "Mercury_7099190",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "17299065599542264086",
+    "arc_id": "MCAS_2006_9_17-v1",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e58cb9f56244e2da576a",
+    "arc_id": "Mercury_7216248",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "556e4a67c912a56a7ee7",
+    "arc_id": "Mercury_401865",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f6287853dd19bea9435f",
+    "arc_id": "MCAS_2004_5_33",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f2c36d5d6a1d4a34e865",
+    "arc_id": "ACTAAP_2009_7_8",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1ccc3bce2f43c16b37b0",
+    "arc_id": "Mercury_7108868",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "33c5438392072e316571",
+    "arc_id": "MCAS_2001_8_4",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "7d663c93fb86ffcc0fb8",
+    "arc_id": "Mercury_7235638",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "8ed3f59c7ad2cdddd653",
+    "arc_id": "Mercury_SC_405931",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ac36dd97eaf3deb33273",
+    "arc_id": "Mercury_7116288",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9a59705d362b8659d610",
+    "arc_id": "Mercury_SC_408763",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3aed9fdfe7028cbe82a5",
+    "arc_id": "Mercury_7129640",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "34d373b42732d99868a8",
+    "arc_id": "Mercury_7206378",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "fc3bde44823adb7cbc16",
+    "arc_id": "Mercury_7211033",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e10740260e531b5c8665",
+    "arc_id": "Mercury_404097",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "af1017ac0a396b8a161e",
+    "arc_id": "Mercury_7086695",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2bd8b9c00a9ad18c859c",
+    "arc_id": "Mercury_SC_405019",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a40456e6264e07f4d537",
+    "arc_id": "MCAS_2000_4_34",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "68ff9aa8180ae667230d",
+    "arc_id": "Mercury_7094290",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c21c0fe5d9ab43ce795d",
+    "arc_id": "Mercury_7210140",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "95fcf485de2c8b651494",
+    "arc_id": "Mercury_7201775",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "48daaab347ecab225692",
+    "arc_id": "Mercury_SC_415762",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d81df2752d0f768df5c0",
+    "arc_id": "Mercury_7075040",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b4c355aaa35a0154a0b8",
+    "arc_id": "NAEP_2005_8_S11+1",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ec64debe191b959ada34",
+    "arc_id": "TAKS_2009_5_14",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d0aa73213e5fdcc51099",
+    "arc_id": "Mercury_SC_405296",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "fe8ef01fb6be903b410a",
+    "arc_id": "Mercury_7111178",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b78de5f6d3516c3b8113",
+    "arc_id": "Mercury_416230",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "4543b8256a3fddc4c621",
+    "arc_id": "MCAS_1998_8_26",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "952ae00e5f6ccd2ddadd",
+    "arc_id": "Mercury_SC_407072",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "3b814b41b6ce0a93c1e1",
+    "arc_id": "Mercury_401523",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "de83b1a162584d93ef07",
+    "arc_id": "NYSEDREGENTS_2012_4_2",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4339bb124ee6a406e0f4",
+    "arc_id": "Mercury_7212888",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "7e95544751513c4e45e1",
+    "arc_id": "ACTAAP_2007_7_36",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "38c102f96e0afbfccbbe",
+    "arc_id": "TIMSS_2007_8_pg109",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "6ce6d979a477abda3691",
+    "arc_id": "Mercury_SC_409666",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9288c252dc2fd929119d",
+    "arc_id": "LEAP_2000_8_2",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b7adc20584420c6d62c5",
+    "arc_id": "Mercury_7042648",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "858a4b43a0b693eb9db9",
+    "arc_id": "Mercury_400880",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "580d1f52487558ac40b3",
+    "arc_id": "Mercury_7042945",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1c719d1f071ac4a6c8de",
+    "arc_id": "Mercury_7009555",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b910571523553d6736fa",
+    "arc_id": "Mercury_415272",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "e3e99b212bbfa7e4f391",
+    "arc_id": "VASoL_2010_3_39",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9140fca4969affdd59a8",
+    "arc_id": "Mercury_7159215",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "8b479ee2478d5daa2681",
+    "arc_id": "LEAP__5_10312",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1d756f318f74ae04c2ef",
+    "arc_id": "MCAS_8_2015_18",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "215eebbf10696dafa7b9",
+    "arc_id": "NYSEDREGENTS_2013_8_10",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "61708d5c428f479c04e6",
+    "arc_id": "Mercury_SC_401678",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "41ea956a905c723da3f3",
+    "arc_id": "Mercury_SC_407610",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2f791461b802bd1b0d35",
+    "arc_id": "Mercury_SC_407383",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "2aa03e25a302c009c8f8",
+    "arc_id": "AKDE&ED_2012_8_6",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1c721300001565da4a74",
+    "arc_id": "Mercury_400443",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "df4c41e4d703ae622594",
+    "arc_id": "Mercury_7188528",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "8ca487b934736ca72822",
+    "arc_id": "Mercury_7027248",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "5d21734f9425e35f0358",
+    "arc_id": "Mercury_416650",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "8d661b8dff49087972ba",
+    "arc_id": "Mercury_400811",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "3d5544b54e0afc64cd00",
+    "arc_id": "Mercury_7212818",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "679a92e4b08996ccdb6c",
+    "arc_id": "Mercury_SC_413542",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "da157cfdde0aa95eb42c",
+    "arc_id": "Mercury_SC_407302",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "025686abf4a37922f44c",
+    "arc_id": "Mercury_417460",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1aba45d18841a107ccf0",
+    "arc_id": "MCAS_2014_5_15",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "14de0c638a9b8fe4ffa6",
+    "arc_id": "Mercury_SC_407592",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "572bd2c002f801cebf93",
+    "arc_id": "MDSA_2013_8_23",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e9772d521e00a50ba1f7",
+    "arc_id": "Mercury_SC_400401",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "eb0560f83aaf9a8584a4",
+    "arc_id": "LEAP__7_10352",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "fb23cc689f0441b2f457",
+    "arc_id": "Mercury_SC_400012",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "135ba4f047a32ab141b4",
+    "arc_id": "TIMSS_1995_8_L6",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "5e4615cb51c05ca3a4d6",
+    "arc_id": "MDSA_2009_5_39",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4c6644043687fa61cebe",
+    "arc_id": "Mercury_414099",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "66e009ef203d0ac09763",
+    "arc_id": "Mercury_7106628",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d6925307d603189ad718",
+    "arc_id": "Mercury_SC_408030",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d68636bc5654a92d77f2",
+    "arc_id": "Mercury_407539",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3b95a46db78d947f2d1e",
+    "arc_id": "Mercury_7233765",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "ad4e982ea2d73b73a762",
+    "arc_id": "Mercury_7270358",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "16797fa1a18d59ad780b",
+    "arc_id": "Mercury_404132",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "304714bd7e71cb57bcc6",
+    "arc_id": "Mercury_7005005",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f84a729fe6fdc4a17a9b",
+    "arc_id": "Mercury_SC_413089",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "80c0fc57afa7ea601f27",
+    "arc_id": "MCAS_2000_8_29",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "3bdd0ad8bed2a6eb6629",
+    "arc_id": "Mercury_SC_405501",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9b514534f1236558262e",
+    "arc_id": "Mercury_7139650",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "db5a73190717c90206ad",
+    "arc_id": "CSZ30338",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "598fc00b63b7ac8531e0",
+    "arc_id": "Mercury_LBS10933",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e9ec10450c4736c4da37",
+    "arc_id": "Mercury_7024465",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a31212c564ab6749cb8b",
+    "arc_id": "TIMSS_1995_8_N2",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9b8b6390efb853866213",
+    "arc_id": "Mercury_7068513",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "021fafc5425609e0de63",
+    "arc_id": "Mercury_SC_408663",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0e93e86e4b9b80b6b717",
+    "arc_id": "Mercury_7133945",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a984f32b07d179d810d5",
+    "arc_id": "Mercury_7180810",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3b4b6ea23e3b88d28b93",
+    "arc_id": "Mercury_189070",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "cb60dfa6826730adb14e",
+    "arc_id": "Mercury_7024273",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1571768c3454aae98fa4",
+    "arc_id": "MDSA_2007_8_42",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1f6bb0ea1ba7b0e583b3",
+    "arc_id": "Mercury_7174738",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f9c680340c1d24ca408e",
+    "arc_id": "NYSEDREGENTS_2015_4_11",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "abca4d749fb52ac6c3c9",
+    "arc_id": "Mercury_7001295",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "5b6e64cbd0c6f5bd1fd0",
+    "arc_id": "Mercury_SC_414271",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "01d9b37be5d1f88a6608",
+    "arc_id": "MCAS_2006_9_4",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "33a916a3d1467e05856d",
+    "arc_id": "NCEOGA_2013_5_19",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "db66674eeb4a815d9432",
+    "arc_id": "Mercury_SC_401620",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c4a0953e6a26da5d3c56",
+    "arc_id": "Mercury_SC_405533",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "79d371f1b18002720ebc",
+    "arc_id": "Mercury_401428",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0fba17c5cb1af1171cb2",
+    "arc_id": "Mercury_7234308",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "8f96ff5294b57ccefd3b",
+    "arc_id": "Mercury_7186568",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2344f85f9b80a56b9acf",
+    "arc_id": "Mercury_7268258",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "72b07658fcfac0649167",
+    "arc_id": "Mercury_SC_415407",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1dbb4e844b27ab04293f",
+    "arc_id": "Mercury_SC_400985",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0ac3263285539aafe983",
+    "arc_id": "Mercury_7166425",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "98cd2d7b6b02852a29c6",
+    "arc_id": "Mercury_7210245",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "e4b711fec479f893f236",
+    "arc_id": "Mercury_7027160",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "246090df4eef57354c21",
+    "arc_id": "Mercury_188335",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "fb1e4137fdd276c52ae7",
+    "arc_id": "Mercury_7040775",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "46cd633700d2614c49d0",
+    "arc_id": "MCAS_2012_5_23625",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2d9088fb4bf18ac9a7e0",
+    "arc_id": "Mercury_SC_LBS10932",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a22943d541c5da2a9d0c",
+    "arc_id": "Mercury_404435",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "7aea915a4c37f34276b6",
+    "arc_id": "Mercury_7041668",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "802866418256b661061a",
+    "arc_id": "Mercury_7159285",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6dcd10a7d1fe42628f5e",
+    "arc_id": "Mercury_SC_400701",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "a955603f86542a50ddf9",
+    "arc_id": "MEA_2013_8_18",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "79072b7e7f6507f0877b",
+    "arc_id": "MCAS_2004_8_14",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3484f25fb632987ec817",
+    "arc_id": "LEAP_2011_8_10434",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "6aa4b1350efa77f98530",
+    "arc_id": "MEAP_2005_8_13",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "98a3c341a754cbf88105",
+    "arc_id": "MSA_2012_5_12",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "e02f2f580111040e0754",
+    "arc_id": "Mercury_SC_405827",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "01987c4b57add84344a0",
+    "arc_id": "Mercury_SC_405710",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b34cca59df27bf91d9ca",
+    "arc_id": "NYSEDREGENTS_2012_8_19",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "45d704f723788b0dba87",
+    "arc_id": "Mercury_7215845",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a962a01b4c7675de5afe",
+    "arc_id": "TIMSS_2007_8_pg113",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6ef79c65d2c20b89091a",
+    "arc_id": "Mercury_SC_400233",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b32206d50b37dca3c6d3",
+    "arc_id": "Mercury_SC_410837",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "96991deeb9025f30aa59",
+    "arc_id": "MSA_2013_5_23",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "8915b6fbd872adfdfc7f",
+    "arc_id": "Mercury_SC_408706",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "37914dd1a3eca4f19e31",
+    "arc_id": "Mercury_SC_400130",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "92599202e19c090fd59b",
+    "arc_id": "Mercury_7095060",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "02e7ee7376880a637ecf",
+    "arc_id": "Mercury_SC_401277",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "56019918df62dfc9e73d",
+    "arc_id": "AKDE&ED_2008_8_40",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "a2922dd4c6680f393225",
+    "arc_id": "Mercury_407664",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "fea37119a116240ea1a5",
+    "arc_id": "ACTAAP_2009_5_12",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "278f2442ca33dbdfd731",
+    "arc_id": "Mercury_7160563",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1daa2b0244fd74f3eaaf",
+    "arc_id": "Mercury_7168805",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0ca390dbb874f7445b9f",
+    "arc_id": "Mercury_7057173",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cfc907456c2443b5d96b",
+    "arc_id": "AKDE&ED_2008_4_19",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b75cf9c5a179b483b2cf",
+    "arc_id": "Mercury_7221620",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6ec151b145eeabb6133f",
+    "arc_id": "Mercury_7263638",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "b6bfcace29a0b1b998b2",
+    "arc_id": "Mercury_SC_400134",
+    "subset": "ARC-Challenge",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0d76437a74cc3585e696",
+    "arc_id": "Mercury_7128555",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "86cbfe2918013fdb142e",
+    "arc_id": "MCAS_2009_8_12",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9f23791b96a35baf0d1b",
+    "arc_id": "Mercury_SC_401788",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "92b732d83c7993b024e8",
+    "arc_id": "NYSEDREGENTS_2008_4_3",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "da8fa34a1e59f9a92737",
+    "arc_id": "Mercury_412780",
+    "subset": "ARC-Challenge",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "19e962663c704440e9a8",
+    "arc_id": "Mercury_7009853",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4a07e11f86c701283413",
+    "arc_id": "MCAS_2010_8_12019",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "52826288cba5bb32261a",
+    "arc_id": "Mercury_7145583",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c12ff3c83a328d2d351c",
+    "arc_id": "Mercury_SC_405154",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2ec1abb06a92248898dd",
+    "arc_id": "NYSEDREGENTS_2008_8_16",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cbbbe93f2674593d827a",
+    "arc_id": "NYSEDREGENTS_2013_4_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3d710fe717dac716ef6b",
+    "arc_id": "Mercury_SC_415535",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "ef2f6b40abd79f46a3b3",
+    "arc_id": "Mercury_7092488",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6ce49650a8eb4b5c6b28",
+    "arc_id": "Mercury_7217228",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f6ea1debcb6c6639c734",
+    "arc_id": "NYSEDREGENTS_2012_8_30",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "8506a1e984d94a912d80",
+    "arc_id": "MCAS_2004_9_4",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "a50089dfcaf014838eda",
+    "arc_id": "Mercury_SC_406543",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9b47f16c622ec94c63c9",
+    "arc_id": "Mercury_SC_407690",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "fb3344102b35b2a1ee66",
+    "arc_id": "NYSEDREGENTS_2012_4_17",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "7b7f5616b8b0f2c52a61",
+    "arc_id": "Mercury_7219695",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e68740f98a6b17c30737",
+    "arc_id": "Mercury_412625",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a519112beb6142aff639",
+    "arc_id": "Mercury_7245788",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "90b874269f988d3d5bdd",
+    "arc_id": "ACTAAP_2007_7_9",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3c60c45f25be6677484f",
+    "arc_id": "Mercury_7201058",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "490e5ae56277388efcdb",
+    "arc_id": "Mercury_7097440",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2360a0d60251a93669d8",
+    "arc_id": "Mercury_SC_408628",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "38acad6421746706ea20",
+    "arc_id": "Mercury_7027335",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "e2aa8ecb37d7964975c4",
+    "arc_id": "Mercury_7128188",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c2ae8049dd9bca792aea",
+    "arc_id": "NYSEDREGENTS_2010_8_39",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "d54bd5fdd96006f0eaf1",
+    "arc_id": "Mercury_7141418",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d15aad01b94c42b67478",
+    "arc_id": "Mercury_416355",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "408ed47b4f26ebed7993",
+    "arc_id": "Mercury_405056",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f8c794facae1c89b7125",
+    "arc_id": "TIMSS_2007_8_pg77",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "566bc64661f8bc34c896",
+    "arc_id": "Mercury_7064698",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "cc2ed9e72331d48fce9c",
+    "arc_id": "NYSEDREGENTS_2012_4_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "f92649202ccf01c8c5da",
+    "arc_id": "MCAS_2005_8_1",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6dad7d114ac9e0a0ce71",
+    "arc_id": "NYSEDREGENTS_2013_8_8",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cafb2bf599b4eed0ffd6",
+    "arc_id": "Mercury_SC_413631",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "80943aff6c87f402f1ee",
+    "arc_id": "Mercury_7171763",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a45b0f033999cb2448d0",
+    "arc_id": "NYSEDREGENTS_2015_8_45",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "49432c8a06c160f7e22e",
+    "arc_id": "Mercury_7179253",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a84f690b330e8769e40e",
+    "arc_id": "Mercury_7128853",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9f3677b40e38042bea0c",
+    "arc_id": "MEA_2014_5_15",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "bf216d346feff3226cd9",
+    "arc_id": "LEAP_2005_4_10266",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0733cb84ebd0152fc330",
+    "arc_id": "Mercury_7207060",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9213f9e2abcd65be83c5",
+    "arc_id": "Mercury_7210105",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cddb02a1cf66dccdcdd7",
+    "arc_id": "Mercury_SC_408509",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "98286fc77636d9ee515f",
+    "arc_id": "LEAP_2004_8_10398",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c7f127945629813d8d82",
+    "arc_id": "Mercury_410467",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "13eae0fdbec834fe89c5",
+    "arc_id": "MCAS_2005_5_8",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "6cebda998b995867b666",
+    "arc_id": "Mercury_7181633",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "237ed3df3c8bf9eb7335",
+    "arc_id": "NYSEDREGENTS_2015_4_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "682f82e4b91673fa9c67",
+    "arc_id": "Mercury_7248150",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "1bd5d5c2e7de1f2d8cd2",
+    "arc_id": "Mercury_7175805",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "701efd071f7f2a887013",
+    "arc_id": "Mercury_7026933",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c4a37461ae6871307de3",
+    "arc_id": "Mercury_7216615",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4e9561b87fa6b5a25617",
+    "arc_id": "Mercury_SC_408900",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "76a094049b56d101f824",
+    "arc_id": "Mercury_7180618",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f572d631ba969505a73f",
+    "arc_id": "Mercury_7234028",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f9c78394f1748b057486",
+    "arc_id": "Mercury_7171535",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "802a8f092a524266b83d",
+    "arc_id": "MEA_2013_8_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ed9ae0d114b286a3fbd7",
+    "arc_id": "Mercury_7245245",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "95e85f2592505d86c407",
+    "arc_id": "VASoL_2009_5_23",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3999c3283adb16b758a0",
+    "arc_id": "Mercury_7040933",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c9dc9d517418a3e01135",
+    "arc_id": "Mercury_SC_400035",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9bc69af8091f626d611b",
+    "arc_id": "Mercury_404107",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6568ac5caeddb7927972",
+    "arc_id": "Mercury_400256",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "051cde0f0a89cfb50e2d",
+    "arc_id": "MCAS_2010_8_12015",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "2a9e9c256e381807d75b",
+    "arc_id": "Mercury_7267575",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "41c6fc18ed69cb715a32",
+    "arc_id": "ACTAAP_2013_7_14",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9023ebb0b9eaf92fd421",
+    "arc_id": "MSA_2013_5_5",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9fe329d6a4546587b228",
+    "arc_id": "Mercury_7008698",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "fa8a9110bd7dba56bb7f",
+    "arc_id": "TIMSS_2007_8_pg130",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "53b261dcb9eda5bb0fc5",
+    "arc_id": "Mercury_7234168",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "14ac2257d7faad3b1364",
+    "arc_id": "TIMSS_2003_4_pg11",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a967f64be1e5f5522f5c",
+    "arc_id": "Mercury_7068950",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a326435b06c82df749d3",
+    "arc_id": "Mercury_7210158",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9578687ff56c751ef2ad",
+    "arc_id": "Mercury_SC_400857",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e15afb6fa5c6ef1c9f58",
+    "arc_id": "Mercury_412755",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "ba196e166d002ccc35d3",
+    "arc_id": "Mercury_7263008",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1ff8da130c6aaaf860c0",
+    "arc_id": "MSA_2012_5_13",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4444303b199089c94982",
+    "arc_id": "MCAS_2006_9_2",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "758729ad311b1b56c42c",
+    "arc_id": "NYSEDREGENTS_2012_8_3",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "2e3a9b304f7a8bfde6aa",
+    "arc_id": "Mercury_7145548",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f84ae4d77108d1d48ad3",
+    "arc_id": "Mercury_SC_413637",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b2d89d8e08a6c1db6004",
+    "arc_id": "Mercury_SC_401238",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "fb20fb87f4b5e7230cbd",
+    "arc_id": "ACTAAP_2009_7_6",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "fc80e69d191c6965104c",
+    "arc_id": "Mercury_404614",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "40f35fde066f01c693a1",
+    "arc_id": "VASoL_2007_5_30",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "125714a16f80cc6563ec",
+    "arc_id": "Mercury_7144498",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "45cbb2e3cd8c6d68a75a",
+    "arc_id": "MEA_2014_8_2",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "150a27ae419ca2cd02ff",
+    "arc_id": "Mercury_SC_416142",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c39ffd99801472dbcd6e",
+    "arc_id": "Mercury_7044240",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "7f05e1c15f97cdbef2a8",
+    "arc_id": "Mercury_7083738",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f00685acfc3a4c5af868",
+    "arc_id": "Mercury_400363",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "94a6a125dc8544f7c0d3",
+    "arc_id": "Mercury_7043873",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0338206ebfaa2928eab9",
+    "arc_id": "Mercury_SC_405026",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4f1d3b5ec1187d6f8b57",
+    "arc_id": "Mercury_405057",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0f83e6fd4344059d9214",
+    "arc_id": "Mercury_7217595",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a56d72758ee16f11556b",
+    "arc_id": "Mercury_410275",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6cb648be241945ca0ecf",
+    "arc_id": "Mercury_400608",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "929d35b0928d85cb8712",
+    "arc_id": "Mercury_SC_406724",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "acf15273d1604b4ed736",
+    "arc_id": "OHAT_2010_8_29",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "88dae1efd28a62d34697",
+    "arc_id": "Mercury_7013458",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "488ca504c94f07c057fa",
+    "arc_id": "Mercury_7017955",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ebddba11b0306f8f7565",
+    "arc_id": "Mercury_7091893",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "494f3de3d5d7cde10547",
+    "arc_id": "Mercury_7003623",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ac60f83cea0ffeef6d6f",
+    "arc_id": "MCAS_2004_8_2",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "0dcf09cc90a868ef360c",
+    "arc_id": "Mercury_SC_LBS10064",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "4a332ca7fca99f99d13c",
+    "arc_id": "MCAS_2004_9_5-v1",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "5d2b1aa481d57072ff09",
+    "arc_id": "TIMSS_2007_8_pg125",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4e4964a4bdc7ec03b64f",
+    "arc_id": "MCAS_2015_5_11",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cc28a2c6f111d63c170e",
+    "arc_id": "Mercury_7234623",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "541f65b175378f3490fc",
+    "arc_id": "Mercury_7161035",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "d11ed872b3398fa3cbcb",
+    "arc_id": "Mercury_SC_404974",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "bba97036278480af7eaa",
+    "arc_id": "TAKS_2009_8_29",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "beba89198c3a2365b59c",
+    "arc_id": "Mercury_SC_406040",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "215c13286b0130808753",
+    "arc_id": "Mercury_188948",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "5ab02c2d587bf2e0bbeb",
+    "arc_id": "Mercury_SC_405800",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6be831452b0234d0526e",
+    "arc_id": "Mercury_404898",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "43f8a13e9e6ff04da3c8",
+    "arc_id": "Mercury_7042630",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "02f2cbccf302dd4044f6",
+    "arc_id": "Mercury_SC_400195",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "40b07c8e8c2d2f0ae12c",
+    "arc_id": "Mercury_7198993",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "5a7429e654aeafb8273a",
+    "arc_id": "Mercury_SC_406070",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "a2dad8fc2b63d87732e0",
+    "arc_id": "Mercury_7041388",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3dbe0c94ec29a54bb1ff",
+    "arc_id": "TAKS_2009_5_29",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4e7d41519852da72ba02",
+    "arc_id": "Mercury_7267943",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "82a94820f29351e0a36f",
+    "arc_id": "Mercury_7016415",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4e2bafd6c9ecf943d31f",
+    "arc_id": "Mercury_SC_400709",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b2493c47f38bdacc5d11",
+    "arc_id": "NYSEDREGENTS_2012_8_11",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "1310029ff4b59d6fea9a",
+    "arc_id": "FCAT_2008_5_7",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "7186e15559d02e04983c",
+    "arc_id": "AKDE&ED_2008_8_18",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "d6627b824e84ce90f033",
+    "arc_id": "Mercury_SC_408243",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "388aac9ae55be6409f55",
+    "arc_id": "ACTAAP_2009_7_5",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "0d294947c1d7e437974f",
+    "arc_id": "MCAS_2006_9_38",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "504205f7348019cda3c5",
+    "arc_id": "Mercury_7201320",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d6f925989f02d5d771e6",
+    "arc_id": "TIMSS_2003_4_pg14",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "52427d03efdc6e9cd423",
+    "arc_id": "Mercury_405951",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "38111ca551f5b043b694",
+    "arc_id": "Mercury_406923",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b06df7c3c5abef73b44e",
+    "arc_id": "MCAS_8_2014_21",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "560cd1beb1c51149d860",
+    "arc_id": "TIMSS_2007_8_pg63",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "37c2204e494bcf9b9595",
+    "arc_id": "NYSEDREGENTS_2013_4_12",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "490c674b159684343451",
+    "arc_id": "LEAP_2001_4_10240",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "789526d112789b2229d3",
+    "arc_id": "Mercury_7267908",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "86d8b5bb8ff0fd298a20",
+    "arc_id": "NYSEDREGENTS_2012_8_17",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "78b9c013a8c6ea9b8b0c",
+    "arc_id": "ACTAAP_2014_5_15",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4a884975d58e839b6a99",
+    "arc_id": "Mercury_7017010",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b64ec928373980ad9c57",
+    "arc_id": "LEAP__4_10228",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c129696fcff2f25cd777",
+    "arc_id": "Mercury_7015575",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9a96b0a2d967a7e6e5fb",
+    "arc_id": "Mercury_7013230",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "58ee31bb1570f5eb2983",
+    "arc_id": "TIMSS_2003_4_pg87",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "b63b56422bd7b4e00f6a",
+    "arc_id": "ACTAAP_2008_5_12",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f2c0b1a246040823478a",
+    "arc_id": "MSA_2013_5_15",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "828d0c8242f7578216f8",
+    "arc_id": "MCAS_2014_8_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "bc5a93139bfcb7d9320a",
+    "arc_id": "Mercury_7077525",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "eba9fdab1a6cc6b8978c",
+    "arc_id": "LEAP_2008_4_10286",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "e0200f7c47e1cc84191a",
+    "arc_id": "MCAS_2000_4_31",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c4f9b7f94f39d68468ae",
+    "arc_id": "Mercury_SC_413004",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "83e12be0f5d4654c51e8",
+    "arc_id": "NYSEDREGENTS_2015_8_31",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "39efdc8c7dc4c6786bf4",
+    "arc_id": "Mercury_7026810",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "9174dd12598cad23df9d",
+    "arc_id": "Mercury_400837",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "79ab63b2598934117708",
+    "arc_id": "Mercury_SC_415455",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "f8fbeb502185bbf4b538",
+    "arc_id": "Mercury_7043680",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "c02aa626bf8cc5d9ecf2",
+    "arc_id": "Mercury_7188510",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "02dc63443685ab2dba9f",
+    "arc_id": "NYSEDREGENTS_2012_4_4",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "148519fc32600603154a",
+    "arc_id": "Mercury_7170905",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "b04d9960cd63249003e1",
+    "arc_id": "Mercury_SC_405784",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "372948e71eb83b50dc19",
+    "arc_id": "Mercury_7222845",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "9b6cb2cfb5f03eca9dd9",
+    "arc_id": "NYSEDREGENTS_2012_4_8",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "7130f8563deb47a6fc0e",
+    "arc_id": "NYSEDREGENTS_2015_8_24",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "95f6c6915ea92a0e4cc9",
+    "arc_id": "Mercury_SC_402117",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2635f96c377bbb730a1c",
+    "arc_id": "NYSEDREGENTS_2012_4_5",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "507c3bd0a472144e4ccf",
+    "arc_id": "Mercury_7124320",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  },
+  {
+    "id": "819029707f6e10125ad4",
+    "arc_id": "MEA_2014_8_7",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4f6bdb45b3066148ca64",
+    "arc_id": "ACTAAP_2009_5_1",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "35d96eca0fa38d032e56",
+    "arc_id": "Mercury_7211558",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "f89e1c889ea54d85ba9f",
+    "arc_id": "Mercury_177188",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "5e6f3c6db0cde9634c75",
+    "arc_id": "NYSEDREGENTS_2013_8_19",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "3f6d2ec13edd7b7496f5",
+    "arc_id": "Mercury_7085313",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "5957769181c9b8efde58",
+    "arc_id": "Mercury_400715",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6b7386280bce09d25008",
+    "arc_id": "Mercury_SC_406664",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "10f01cd2db311c133209",
+    "arc_id": "MCAS_2012_8_23649",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "20a5c8c79c69081ca5f2",
+    "arc_id": "NYSEDREGENTS_2013_8_21",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "d29212e4a0be48470efb",
+    "arc_id": "Mercury_7027265",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "eb66af2cf9a9c9e82062",
+    "arc_id": "Mercury_SC_402094",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "6f18e6357378a4f1ea13",
+    "arc_id": "MEA_2013_5_9",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "40a6738a101266975bd3",
+    "arc_id": "Mercury_416405",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "2b63a6b7784ffa97a33e",
+    "arc_id": "Mercury_7283693",
+    "subset": "ARC-Easy",
+    "correct_1": false,
+    "correct_3": false,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "a8001f29ddac73213dbc",
+    "arc_id": "TIMSS_2007_4_pg64",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "4efc56f35860b6eff0b8",
+    "arc_id": "Mercury_SC_408436",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": true
+    }
+  },
+  {
+    "id": "2ea7c973dc8148871b7a",
+    "arc_id": "Mercury_7246365",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "23e2c3a6866707320e3b",
+    "arc_id": "MDSA_2012_8_1",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "7699f069f8da854654e7",
+    "arc_id": "Mercury_411809",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "cdca3da88a6b35da2155",
+    "arc_id": "Mercury_7211628",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": false
+    }
+  },
+  {
+    "id": "ad2a86ce75564478f53d",
+    "arc_id": "Mercury_7120820",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "42b8fe1b1b85b60811ba",
+    "arc_id": "Mercury_7041545",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": true,
+      "subset": false,
+      "confidence_head": false,
+      "state_head": true
+    }
+  },
+  {
+    "id": "66a45c2cd1ce7adab2b6",
+    "arc_id": "NYSEDREGENTS_2008_8_33",
+    "subset": "ARC-Easy",
+    "correct_1": true,
+    "correct_3": true,
+    "raise": {
+      "margin": false,
+      "subset": false,
+      "confidence_head": true,
+      "state_head": false
+    }
+  }
+]

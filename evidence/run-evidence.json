@@ -1,0 +1,37 @@
+{
+  "1": {
+    "metadata": "0.00.848.523 I validate_override: Using metadata override (  int) 'inkling2_loop.loop.count' = 0.00.848.525 I 1",
+    "layer_count": "0.01.074.085 I print_info: n_layer_all           = 24",
+    "offload": "0.01.839.736 I load_tensors: offloaded 25/25 layers to GPU",
+    "rows": 608,
+    "sha256": "029457d8664784beb8d2394f865d6042a5ec93103eb8accc4c335862200aa796"
+  },
+  "2": {
+    "metadata": "0.00.831.426 I validate_override: Using metadata override (  int) 'inkling2_loop.loop.count' = 0.00.831.428 I 2",
+    "layer_count": "0.01.052.984 I print_info: n_layer_all           = 36",
+    "offload": "0.02.095.714 I load_tensors: offloaded 37/37 layers to GPU",
+    "rows": 608,
+    "sha256": "bd91c3710d871c86ca1ed638cebe41404c89006703e75792572bc6b1558bdc57"
+  },
+  "3": {
+    "metadata": "0.00.992.638 I validate_override: Using metadata override (  int) 'inkling2_loop.loop.count' = 0.00.992.640 I 3",
+    "layer_count": "0.01.235.409 I print_info: n_layer_all           = 48",
+    "offload": "0.02.241.675 I load_tensors: offloaded 49/49 layers to GPU",
+    "rows": 608,
+    "sha256": "843146ce504664c1b18f033ae8e831d0885418f73ea876b0ef2877cf3678b55d"
+  },
+  "4": {
+    "metadata": "0.00.861.647 I validate_override: Using metadata override (  int) 'inkling2_loop.loop.count' = 0.00.861.649 I 4",
+    "layer_count": "0.01.077.954 I print_info: n_layer_all           = 60",
+    "offload": "0.02.059.095 I load_tensors: offloaded 61/61 layers to GPU",
+    "rows": 608,
+    "sha256": "6d950a57c5bbb16de71bf3162835ce325b0309245f0e2e71c533122df512a274"
+  },
+  "5": {
+    "metadata": "0.00.920.237 I validate_override: Using metadata override (  int) 'inkling2_loop.loop.count' = 0.00.920.238 I 5",
+    "layer_count": "0.01.159.186 I print_info: n_layer_all           = 72",
+    "offload": "0.02.143.484 I load_tensors: offloaded 73/73 layers to GPU",
+    "rows": 608,
+    "sha256": "bd4ceecb7b3ef36cfa612452584abf30c01d8215d92421c5f68953b9ff206c35"
+  }
+}

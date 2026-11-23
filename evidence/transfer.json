@@ -1,0 +1,410 @@
+{
+  "arithmetic": {
+    "train_n": 216,
+    "val_n": 72,
+    "policy": "fixed-3",
+    "penalty": null,
+    "test": {
+      "controller": {
+        "n": 32,
+        "accuracy": 0.3125,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 555.7581124999999,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 619.6030599999999,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 32,
+        "accuracy": 0.3125,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 555.7581124999999,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 619.6030599999999,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      }
+    },
+    "ood": {
+      "controller": {
+        "n": 24,
+        "accuracy": 0.20833333333333334,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 605.2646166666667,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 788.6624149999999,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 24,
+        "accuracy": 0.20833333333333334,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 605.2646166666667,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 788.6624149999999,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "graph": {
+    "train_n": 216,
+    "val_n": 72,
+    "policy": "learned",
+    "penalty": 0.02,
+    "test": {
+      "controller": {
+        "n": 32,
+        "accuracy": 0.4375,
+        "delta_vs_3": -0.125,
+        "ci95_delta_vs_3": [
+          -0.28125,
+          0.03125
+        ],
+        "lost_vs_3": 6,
+        "gained_vs_3": 2,
+        "mean_depth": 2.0,
+        "work_savings_vs_3": 0.25,
+        "mean_remote_ms": 384.91034687499996,
+        "remote_time_savings_vs_3": 0.3165207229854181,
+        "p95_remote_ms": 424.27573,
+        "depth_counts": [
+          0,
+          32,
+          0,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 32,
+        "accuracy": 0.5625,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 563.1631562499999,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 658.4744049999999,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      }
+    },
+    "ood": {
+      "controller": {
+        "n": 24,
+        "accuracy": 0.25,
+        "delta_vs_3": -0.041666666666666664,
+        "ci95_delta_vs_3": [
+          -0.125,
+          0.0
+        ],
+        "lost_vs_3": 1,
+        "gained_vs_3": 0,
+        "mean_depth": 2.0,
+        "work_savings_vs_3": 0.25,
+        "mean_remote_ms": 397.6811333333333,
+        "remote_time_savings_vs_3": 0.32474160066133295,
+        "p95_remote_ms": 436.69516,
+        "depth_counts": [
+          0,
+          24,
+          0,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 24,
+        "accuracy": 0.2916666666666667,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 588.9317833333333,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 636.09429,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "program": {
+    "train_n": 216,
+    "val_n": 72,
+    "policy": "learned",
+    "penalty": 0.4,
+    "test": {
+      "controller": {
+        "n": 32,
+        "accuracy": 0.21875,
+        "delta_vs_3": -0.125,
+        "ci95_delta_vs_3": [
+          -0.28125,
+          0.0
+        ],
+        "lost_vs_3": 5,
+        "gained_vs_3": 1,
+        "mean_depth": 1.0,
+        "work_savings_vs_3": 0.5,
+        "mean_remote_ms": 266.59734375,
+        "remote_time_savings_vs_3": 0.5329299645834179,
+        "p95_remote_ms": 305.34159999999997,
+        "depth_counts": [
+          32,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 32,
+        "accuracy": 0.34375,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 570.7866562500001,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 639.540785,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      }
+    },
+    "ood": {
+      "controller": {
+        "n": 24,
+        "accuracy": 0.20833333333333334,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 1.0,
+        "work_savings_vs_3": 0.5,
+        "mean_remote_ms": 287.53740416666665,
+        "remote_time_savings_vs_3": 0.5151542196727086,
+        "p95_remote_ms": 335.11547499999995,
+        "depth_counts": [
+          24,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 24,
+        "accuracy": 0.20833333333333334,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 593.0492041666666,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 637.90342,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "table": {
+    "train_n": 216,
+    "val_n": 72,
+    "policy": "fixed-3",
+    "penalty": null,
+    "test": {
+      "controller": {
+        "n": 32,
+        "accuracy": 0.625,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 574.68325625,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 669.048465,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 32,
+        "accuracy": 0.625,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 574.68325625,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 669.048465,
+        "depth_counts": [
+          0,
+          0,
+          32,
+          0,
+          0
+        ]
+      }
+    },
+    "ood": {
+      "controller": {
+        "n": 24,
+        "accuracy": 0.3333333333333333,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 605.1605833333333,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 667.9109599999999,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      },
+      "fixed-3": {
+        "n": 24,
+        "accuracy": 0.3333333333333333,
+        "delta_vs_3": 0.0,
+        "ci95_delta_vs_3": [
+          0.0,
+          0.0
+        ],
+        "lost_vs_3": 0,
+        "gained_vs_3": 0,
+        "mean_depth": 3.0,
+        "work_savings_vs_3": 0.0,
+        "mean_remote_ms": 605.1605833333333,
+        "remote_time_savings_vs_3": 0.0,
+        "p95_remote_ms": 667.9109599999999,
+        "depth_counts": [
+          0,
+          0,
+          24,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

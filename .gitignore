@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+work/
+*.gguf
+*.safetensors
+*.parquet
+*.so
+*.part
+*.log
+prompts.tsv
+loop-probe
